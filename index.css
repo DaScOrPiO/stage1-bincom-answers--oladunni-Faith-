@@ -1,0 +1,11 @@
+table {
+    width: 100vw;
+    border-collapse: collapse;
+    margin-bottom:  4%;
+}
+thead {
+    text-align: left;
+}
+tr,th,td{
+    border: 1px solid black;
+}
